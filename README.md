@@ -4,7 +4,7 @@ Este repositorio contiene el código fuente del portfolio personal de Nicolás L
 
 #
 
-<h3 align="center" style="text-decoration: underline">Contenido</h3>
+<h3>Contenido</h3>
 
 - index.html: Página principal que muestra la barra de navegación, la sección "Hero", información "Sobre Mí", una galería de "Proyectos" y la sección de "Contacto".
 
@@ -16,7 +16,7 @@ Este repositorio contiene el código fuente del portfolio personal de Nicolás L
 
 #
 
-<h3 align="center" style="text-decoration: underline">Tecnologías Utilizadas</h3>
+<h3>Tecnologías Utilizadas</h3>
 
 - HTML
 - CSS (Bootstrap)
@@ -26,30 +26,30 @@ Este repositorio contiene el código fuente del portfolio personal de Nicolás L
 
 #
 
-<h3 align="center" style="text-decoration: underline">Proyectos Destacados</h3>
+<h3>Proyectos Destacados</h3>
 
-<h4 style="text-decoration: underline">Freelancer Sitio Web:</h4>
+<h4>Freelancer Sitio Web:</h4>
 
 - Repositorio: GitHub
 - Enlace: Freelancer Sitio Web
 
-<h4 style="text-decoration: underline">Store Frontend 2022:</h4>
+<h4>Store Frontend 2022:</h4>
 
 - Repositorio: GitHub
 - Enlace: Store Frontend 2022
 
-<h4 style="text-decoration: underline">Música Festival Rock:</h4>
+<h4>Música Festival Rock:</h4>
 
 - Repositorio: GitHub
 - Enlace: Música Festival Rock
 
-<h4 style="text-decoration: underline">App Salon:</h4>
+<h4>App Salon:</h4>
 
 - Repositorio: GitHub
 - Enlace: App Salon
 
 #
 
-<h3 align="center" style="text-decoration: underline">Contacto</h3>
+<h3>Contacto</h3>
 
 Para colaboraciones y proyectos, contáctame a través de nicolas.lopez.vidueiros@gmail.com.
