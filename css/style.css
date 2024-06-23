@@ -81,6 +81,12 @@ h1 {
   overflow: scroll;
 }
 
+@media(min-width: 768px) {
+  .sobre-mi .contenedor {
+    overflow: hidden
+  }
+}
+
 .seccion-titulo {
   font-size: 2rem;
   padding: 15px 0;
@@ -99,6 +105,7 @@ h1 {
 .seccion-descripcion {
   font-size: 1.2rem;
   color: #584e4e;
+  text-align: center;
 }
 
 .proyectos-contenedor {
